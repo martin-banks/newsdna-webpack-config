@@ -1,0 +1,7 @@
+{
+	"projectName": "project-name",
+	"path": {
+    "UAT": ".",
+    "PROD": "https://"
+	}
+}
